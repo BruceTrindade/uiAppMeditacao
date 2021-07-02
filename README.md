@@ -9,4 +9,4 @@ No gif abaixo mostra o que eu consegui fazer até agora, nos próximos dias vou 
 ---
 Estou ansioso para criar novas telas com o compose e poder ver em breve apps sendo lançados com telas no compose. 
 OBS1 para os interessados: Jetpack Compose só pode ser utilizado com Kotlin, então se você ainda usa Java para desenvolver apps Android, vai ter que add file Kotlin.
-OBS2 para os interessados: O Preview que eu comentei só funciona no Android Studio Beta, vocês podem baixar nesse Link = [link](https://developer.android.com/studio/preview)
+OBS2 para os interessados: O Preview que eu comentei só funciona no Android Studio Beta, vocês podem baixar nesse [link](https://developer.android.com/studio/preview)
