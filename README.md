@@ -2,7 +2,13 @@
 UI feita para praticar Jetpack Compose
 ---
 Quando eu vi um desenvolvedor comentando sobre o Jetpack Compose eu tive que pesquisar sobre. Poder criar telas sem o XML? Parecia impossível, mas ta ai a prova de que não é. Eu demorei 5 dias para criar essas telas, lendo a documentaçao, vendo vídeos, corrigindo bugs de atualização (O compose ainda não foi oficialmente lançado), tentando aprender como navegar entre as páginas, não existe tantos conteudos sobre na internet, mas depois disso posso dizer que essa nova funcionalidade do Android é excelente, e sem falar do @Preview que você consegue ir fazendo pequenas edições no códgio e o emulador atualiza simultâneo (Ainda precisa de muitas melhorias).
-No gif abaixo mostra o que eu consegui fazer até agora, nos próximos dias vou criar as páginas: "Dormir" e "Música".
+
+O que ainda falta no aplicativo:
+- [ ] 01: Tela da aba "Dormir"
+- [ ] 02: Tela da aba "Musica"
+- [ ] 03: Mudar a saudação "Bom dia" "Boa tarde" ou "Boa noite" de acordo com a hora do android.
+- [ ] 04: Centralizar o ícone do menu
+- [ ] 05: Adicionar uma Sprash Screen
 
 ![gifuimeditation](https://github.com/BruceTrindade/uiAppMeditacao/blob/main/GifMeditationUICompose3.gif)
 
@@ -21,6 +27,12 @@ UI made to practice Jetpack Compose
 ---
 When I saw a developer commenting on Jetpack Compose I had to do some research. Create screens without XML? It seemed impossible, but there is proof that it is not. It took me 5 days to create these screens, reading the documentation, watching videos, fixing update bugs (compose hasn't been officially released yet), trying to learn how to navigate between pages, there isn't that much content on the internet, but after that I can to say that this new Android functionality is excellent, and with the @Preview you can go on making small edits to the code and the emulator see simultaneously (Still needs a lot of improvements).
 
+What's still missing from the app:
+- [ ] 01: "Sleep" tab screen
+- [ ] 02: "Music" tab screen
+- [ ] 03: Change the greeting "Good morning" "Good afternoon" or "Good night" according to the android time.
+- [ ] 04: Center the menu icon
+- [ ] 05: Add a Sprash screen
 
 I'm looking forward to creating new screens with compose.
 OBS1 for interested: Jetpack Compose can only be used with Kotlin, so if you still use Java to develop Android apps, you will have to add Kotlin file.
